@@ -1,0 +1,2 @@
+core_cm4.h:2059:26:ITM_SendChar	16	static,ignoring_inline_asm
+redirect_SWV.c:21:10:_write	32	static
